@@ -1,5 +1,5 @@
 {
-  "homepage": "https://udaynararayan2412.github.io/AdAvenue-1/",
+  "homepage": "https://udayadavenue.github.io/adavenue/",
   "name": "AdAvenue",
   "version": "0.1.0",
   "private": true,
@@ -37,7 +37,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://github.com/UdayNarayan2412/AdAvenue-1.git",
+    "deploy": "gh-pages -d build -r https://github.com/udayadavenue/adavenue.git",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
